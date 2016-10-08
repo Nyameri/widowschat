@@ -26,11 +26,7 @@
 
 <h2 class="project-tagline">the app is for widows communiaction to bring harmony to a kins~based discriminated end~users members of society</h2>
 
-<a href="https://github.com/Nyameri/widowschat" class="btn">View on GitHub</a>
-
-<a href="https://github.com/Nyameri/widowschat/zipball/master" class="btn">Download .zip</a>
-
-<a href="https://github.com/Nyameri/widowschat/tarball/master" class="btn">Download .tar.gz</a>
+</a></a></a>
 
 </section>
 
@@ -65,15 +61,3 @@
 </body>
 
 </html>
-{
-
-"name": "Widowschat",
-
-"tagline": "the app is for widows communiaction to bring harmony to a kins~based discriminated end~users members of society",
-
-"body": "https://www.jotform.com//?formID=62631359577566\r\n",
-
-
-
-}
-
