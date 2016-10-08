@@ -38,7 +38,9 @@
 
 <section class="main-content">
 
-<p><a href="https://www.jotform.com//?formID=62631359577566">https://www.jotform.com//?formID=62631359577566</a></p>
+<p><a href="https://form.myjotform.com/62631359577566<p><a href="
+<p><a href="
+">https://form.myjotform.com/62631359577566</a></p>
 
 
 
